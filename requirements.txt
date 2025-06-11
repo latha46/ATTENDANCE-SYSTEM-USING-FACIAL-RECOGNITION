@@ -1,0 +1,9 @@
+Python 3.x 
+Libraries/Packages:
+opencv-python (cv2) 
+numpy
+os 
+datetime 
+IDE/Text Editor – e.g., VS Code, PyCharm, or any Python-compatible editor.
+Haar Cascade Classifier – Comes with OpenCV for face detection.
+Webcam
